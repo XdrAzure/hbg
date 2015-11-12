@@ -1,6 +1,7 @@
 # Habbo Badge Generator
 
 This repository contains the necessary files to generate all badges from Habbo.
+Requires PHP 7.0 or higher.
 
 ### IIS - Url Rewrite 2
 
